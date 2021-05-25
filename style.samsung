@@ -25,3 +25,11 @@ a:hover{
     height:250px ;
     width: 550px;
 }
+h2{
+color:cyan;
+}
+h1{
+color:purple;
+}
+background-color:black;
+}
