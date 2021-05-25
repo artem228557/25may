@@ -101,7 +101,7 @@ footer {
 }
 .blok{
     position:fixed ;
-    
+     padding:10px;
     background-color:#850AE5 ;
     top:400px;
     right:10px ;
