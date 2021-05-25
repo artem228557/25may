@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+.builder:hover {
+    transform:translateY(100px) translateX(200PX);  
+    transition: 3s linear;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 60px;
+}
+
+.details {
+   
+    display: inline-block;
+    margin-top: 20px;
+}
+.logo{
+    height: 250px;
+    width:550px ;
+}
