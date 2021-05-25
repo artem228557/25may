@@ -2,12 +2,3 @@
     height:250px ;
     width: 550px;
 }
-p{
-color:cyan;
-}
-h1{
-color:purple;
-}
-body{
-background-color:black;
-}
