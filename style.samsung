@@ -31,5 +31,6 @@ color:cyan;
 h1{
 color:purple;
 }
+body{
 background-color:black;
 }
